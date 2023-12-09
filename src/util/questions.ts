@@ -13,14 +13,14 @@ const data: any =  {
                 "correct": "Trojan"
             },
             "200": {
-                "text": "The part of a virus that performs the malicious action:",
+                "text": "SSL/TLS are one of many protocol at various layers. Which layer does SSL/TLS operate at?",
                 "answers": {
-                    "1": "Payday",
-                    "2": "Payload",
-                    "3": "Striker",
-                    "4": "Offender"
+                    "1": "Physical Layer",
+                    "2": "Data Link Layer",
+                    "3": "Application Layer",
+                    "4": "Transport Layer"
                 },
-                "correct": "Payload"
+                "correct": "Transport Layer"
             },
             "300": {
                 "text": "Password salting is a common second layer of protection on passwords, what attack does it make the most difficult?",
@@ -43,14 +43,14 @@ const data: any =  {
                 "correct": "Ransomware"
             },
             "500": {
-                "text": "Computers that are part of a botnet are typically called:",
+                "text": "What type of attack does MAC prevent?",
                 "answers": {
-                    "1": "Zombie",
-                    "2": "Vampire",
-                    "3": "Witch",
-                    "4": "Demon"
+                    "1": "MITM",
+                    "2": "Ransomware",
+                    "3": "Guessing Attack",
+                    "4": "Worm"
                 },
-                "correct": "Zombie"
+                "correct": "MITM"
             }
         }
     },
