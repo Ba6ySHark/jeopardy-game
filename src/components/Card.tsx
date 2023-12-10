@@ -29,7 +29,6 @@ export default function Card(props: any): JSX.Element {
                 break;
             }
         }
-        setNextPlayer();
         setCorrect(answer);
         setAnswered(true);
     }
